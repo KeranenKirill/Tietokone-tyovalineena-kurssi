@@ -10,3 +10,5 @@ pulvinar ullamcorper ex vitae aliquet.
 Quisque eget rutrum metus. Nulla vel tempor sapien, id venenatis ex. Ut ac aliquet orci. Etiam turpis metus, dapibus non maximus vel, pretium ut nisi. 
 Donec ullamcorper justo euismod dolor ultricies, sed porta diam tincidunt. Fusce blandit efficitur ex. Etiam at congue erat. Ut at ligula id sem dapibus 
 sagittis sed nec lorem.
+
+Nyt lisattiin paikallisesti loppuuntama rivi
