@@ -3,3 +3,4 @@ tämä on lapion toinen osa
 muutos tehtiin githubin sivulla 
 jees mahtavaa
 terveisia mun paikalliselta koneelta
+terveisiä GitHubista
